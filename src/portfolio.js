@@ -24,7 +24,7 @@ const greeting = {
   name: "Mohit Mehta",
   message:
     "I am a seasoned senior front-end developer with a passion for crafting immersive digital experiences that seamlessly blend creativity with functionality. With 5+ years of hands-on experience in the ever-evolving landscape of web development, I thrive on the challenges posed by modern technologies and industry standards.",
-  basedLocation: "Noida, India",
+  basedLocation: "Gurugram, India",
   resumeLink:
     "https://drive.google.com/file/d/1MoIzqHmXItIBYIhPtdqjSYNOsJR9zQYe/view?usp=drive_link", // recommended: google drive file share link (change to "anyone on the internet can view")
   logo: {
