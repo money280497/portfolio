@@ -1,26 +1,19 @@
-const experience = [
-    {  
-        position: "Senior Software Engineer",  
-        company: { name: "Coupa Software", link: "https://coupa.com/" },  
-        duration: "Jan 2025 - Present",  
-        bulletPoints: [  
-            "Contributed to the Sentinel UI platform.",  
-            "Worked with AWS Bedrock and database services.",  
-            "Utilized Docker and Kubernetes for container orchestration.",  
-            "Collaborated effectively with cross-functional teams."  
-        ],  
-        hashtags: ["Python", "Streamlit", "FastAPI", "AWS", "Boto3", "MySQL", "SQLAlchemy", "Alembic", "Redis", "Docker", "Helm", "Kubernetes", "Gunicorn", "Jenkins", "GitHubActions", "CI/CD"]
+const portfolio = {
+  experiences: [
+    {
+      company: 'Coupa Software',
+      role: 'Software Engineer',
+      description: 'Worked on optimizing expenditure management solutions.',
+      year: '2022 - Present',
     },
-    // Previous Experience
-    {  
-        position: "Software Engineer",  
-        company: { name: "Paytm", link: "https://paytm.com/" },  
-        duration: "April 2022 - Dec 2024",  
-        bulletPoints: [  
-            "Developed payment solutions.",  
-            "Worked on mobile applications.",  
-            "Implemented various software solutions."  
-        ],  
-        hashtags: ["Java", "Spring", "Microservices"]  
-    }
-];
+    {
+      company: 'Paytm',
+      role: 'Software Developer',
+      description: 'Contributed to various features and fixes for the Paytm mobile app.',
+      year: '2021 - 2022',
+    },
+    // add more experiences as needed
+  ],
+};
+
+export default portfolio;
