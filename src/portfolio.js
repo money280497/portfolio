@@ -74,9 +74,9 @@ const experiences = [
     duration: "April 2022 - Dec 2024",
     bulletPoints: [
       " Orchestrated the development of fastag feature with a user base of 20 million users and managed fastag mini-app with 100-200K daily users, integrating multiple backend services.",
-      " Spearheaded web vital projects and managed application behaviour in multiple languages to foster linguistic inclusivity and implemented architecture including pre-commit hooks, ESLint, Prettier and SonarCube.",
-      " Engineered software development projects from conception to deployment, managing and mentoring a team of developers and ensuring adherence to project timelines and quality standards with cloud service providers.",
-      " Leveraged modern JavaScript frameworks, UX/UI best practices, and agile development methodologies with high quality code, automated unit and integration tests.",
+      " Spearheaded web vital projects and managed application behaviour in multiple languages to foster linguistic inclusivity.",
+      " Engineered projects from conception to deployment, mentoring a team of developers and ensuring adherence to project timelines and quality standards with cloud service providers.",
+      " Leveraged modern JavaScript frameworks, UX/UI best practices, and agile development methodologies with high quality code, automated tests.",
     ],
     hashtags: [
       "React.js",
@@ -99,10 +99,11 @@ const experiences = [
     },
     duration: "April 2021 - March 2022",
     bulletPoints: [
-      "Developing an UI application to manage and administrate the process of ordering, packing, generating labels for an item to shipped it to the client.",
-      "Code optimization, observation, collaboration.",
-      "UI portal for uploading and downloading documents.",
-      "Developed standard and ad hoc reports in graph format.",
+      " Developing an UI application to manage and administrate the process of ordering, packing, generating labels for an item to shipped it to the client.",
+      " Implementation of a Micro Frontend architecture using Module Federation in Webpack and Storybook.",
+      " Establish architecture including pre-commit hooks, ESLint, Prettier and SonarCube.",
+      " UI portal for uploading and downloading documents.",
+      " Code optimization, observation, collaboration.",
     ],
     hashtags: [
       "React.js",
@@ -125,10 +126,11 @@ const experiences = [
     },
     duration: "July 2018 - March 2021",
     bulletPoints: [
-      "The Aurigo Masterworks Cloud is an enterprise software products for planning, building and maintaining large capital infrastructure and assets.",
-      "Develop new features and modules in the application.",
-      "Integration of application with the existing system.",
+      " The Aurigo Masterworks Cloud is an enterprise software products for planning, building and maintaining large capital infrastructure and assets.",
+      " Developed new features and modules in the application.",
+      " Integration of application with the existing system.",
       " Enabled support for localisation, custom code editor.",
+      " Developed standard and ad hoc reports in graph format.",
     ],
     hashtags: [
       "React.js",
