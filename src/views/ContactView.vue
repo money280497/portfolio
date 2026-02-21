@@ -67,7 +67,7 @@
               <button
                 class="py-2 px-6 bg-transparent border border-button-color shadow-sm shadow-button-color text-button-color hover:text-white hover:bg-button-color focus:bg-button-color focus:text-white active:bg-button-color active:text-white duration-300"
               >
-                mohitmehta280497@gmail.com
+                mohitmehta28041997@gmail.com
               </button>
             </p>
           </template>
