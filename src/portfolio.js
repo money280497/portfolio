@@ -58,10 +58,10 @@ const experiences = [
     },  
     duration: "Jan 2025 - Present",  
     bulletPoints: [
-      "Built and enhanced the Sentinel UI platform using Streamlit and FastAPI to support AI agent workflows, PR analysis, and engineering productivity use cases.",  
-      "Designed and integrated backend services with AWS Bedrock, GitHub, Jenkins, Confluence, and internal tooling for end-to-end automation.",  
-      "Implemented and maintained database-driven features with MySQL, SQLAlchemy, and Alembic migrations, including chat/session and app management capabilities.",  
-      "Improved deployment reliability through Docker-based builds, Helm/Kubernetes configuration, and CI/CD workflow alignment across dev and qas environments."  
+      " Built and enhanced the Sentinel UI platform using Streamlit and FastAPI to support AI agent workflows, PR analysis, and engineering productivity use cases.",  
+      " Designed and integrated backend services with AWS Bedrock, GitHub, Jenkins, Confluence, and internal tooling for end-to-end automation.",  
+      " Implemented and maintained database-driven features with MySQL, SQLAlchemy, and Alembic migrations, including chat/session and app management capabilities.",  
+      " Improved deployment reliability through Docker-based builds, Helm/Kubernetes configuration, and CI/CD workflow alignment across dev and qas environments."  
     ],
     hashtags: ["Python", "Streamlit", "FastAPI", "AWS", "Boto3", "MySQL", "SQLAlchemy", "Alembic", "Redis", "Docker", "Helm", "Kubernetes", "Gunicorn", "Jenkins", "GitHubActions", "CI/CD"]
   },
@@ -71,12 +71,12 @@ const experiences = [
       name: "One 97 Communications Paytm Ltd, Noida",
       link: "https://paytm.com/",
     },
-    duration: "April 2022 - Present",
+    duration: "April 2022 - Dec 2024",
     bulletPoints: [
-      "Built user interface for Manage Fastag feature and crosss platform mobile application.",
-      "Research and evaluate alternative solutions and make recommendations for better performance.",
-      " Worked with project manager, developers and testers to resolve technical issues following agile methodology.",
-      " Monitoring Jira tickets, code review of peers and writing unit test cases.",
+      " Orchestrated the development of fastag feature with a user base of 20 million users and managed fastag mini-app with 100-200K daily users, integrating multiple backend services.",
+      " Spearheaded web vital projects and managed application behaviour in multiple languages to foster linguistic inclusivity and implemented architecture including pre-commit hooks, ESLint, Prettier and SonarCube.",
+      " Engineered software development projects from conception to deployment, managing and mentoring a team of developers and ensuring adherence to project timelines and quality standards with cloud service providers.",
+      " Leveraged modern JavaScript frameworks, UX/UI best practices, and agile development methodologies with high quality code, automated unit and integration tests.",
     ],
     hashtags: [
       "React.js",
