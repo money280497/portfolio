@@ -119,7 +119,7 @@ const experiences = [
     ],
   },
   {
-    position: "Junior Software Engineer",
+    position: "Associate Software Engineer",
     company: {
       name: "Aurigo Software Technologies,Bengaluru",
       link: "https://aurigo.com/",
