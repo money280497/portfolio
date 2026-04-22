@@ -26,7 +26,7 @@ const greeting = {
     "Seasoned full stack engineer with 7+ years of proven expertise in architecting and building scalable web platforms and AI-driven systems. I combine deep technical mastery with a passion for crafting immersive digital experiences that seamlessly blend creativity with functionality.Currently focused on agentic AI and LLM-powered platforms, leveraging cutting-edge technologies including AWS Bedrock, FastAPI, MCP Tools, Claude. With hands-on experience navigating the rapidly evolving landscape of modern web development, I thrive on solving complex challenges and implementing industry-leading solutions that drive real business impact.",
   basedLocation: "Gurugram, India",
   resumeLink:
-    "https://drive.google.com/file/d/1MoIzqHmXItIBYIhPtdqjSYNOsJR9zQYe/view?usp=drive_link", // recommended: google drive file share link (change to "anyone on the internet can view")
+    "https://docs.google.com/document/d/1dmEbg3wDDZI3oLbhsCrLyojD6HNDKFf_pxq8sGqKD_c", // recommended: google drive file share link (change to "anyone on the internet can view")
   logo: {
     link: "images/initials.png", // use relative path from  parent directory -> ex: images/image.ext
     custom: true, // takes precedence over image logo and allows for custom HTML logo (./components/Navbar.vue)
