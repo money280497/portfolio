@@ -23,7 +23,7 @@ const greeting = {
   intro: "Hello 👋, my name is",
   name: "Mohit Mehta",
   message:
-    "I am a seasoned senior front-end developer with a passion for crafting immersive digital experiences that seamlessly blend creativity with functionality. With 5+ years of hands-on experience in the ever-evolving landscape of web development, I thrive on the challenges posed by modern technologies and industry standards.",
+    "Seasoned full stack engineer with 7+ years of proven expertise in architecting and building scalable web platforms and AI-driven systems. I combine deep technical mastery with a passion for crafting immersive digital experiences that seamlessly blend creativity with functionality.Currently focused on agentic AI and LLM-powered platforms, leveraging cutting-edge technologies including AWS Bedrock, FastAPI, MCP Tools, Claude. With hands-on experience navigating the rapidly evolving landscape of modern web development, I thrive on solving complex challenges and implementing industry-leading solutions that drive real business impact.",
   basedLocation: "Gurugram, India",
   resumeLink:
     "https://drive.google.com/file/d/1MoIzqHmXItIBYIhPtdqjSYNOsJR9zQYe/view?usp=drive_link", // recommended: google drive file share link (change to "anyone on the internet can view")
@@ -42,7 +42,7 @@ const socialMediaLinks = {
 // --- 😎 About Section ---
 const about = {
   autobiography: [
-    "As a senior member of any development team, I bring leadership, mentorship, and a strategic mindset to the table. Whether it's guiding junior developers, architecting scalable solutions, or spearheading the adoption of new technologies, I am driven by a relentless pursuit of excellence and a passion for pushing the boundaries of what's possible in front-end development.",
+    "As a senior member of any development team, I bring leadership, mentorship, and a strategic mindset to the table. Whether it's guiding junior developers, architecting scalable solutions, or spearheading the adoption of new technologies, I am driven by a relentless pursuit of excellence and a passion for pushing the boundaries of what's possible in software development.",
   ], // Separated items are paragraphs
   techStack: ["React.js", "JavaScript", "Node.js", "Html", "Css"],
   photo3Link: "images/portrait3.jpg",
